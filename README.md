@@ -5,7 +5,7 @@
   - **Contribuir em projeto de terceiros.**
   - **Ver exemplos de projetos reais em Jetpack Compose, CMP e KMP.**
   - **Analizar conceitos importantes, como: arquitetura, design system, flavors, modularização entre outros.**
-  - **Conhecer casos de uso de projetos em Kotlin, construídos por desenvolvedores de todoo Brasil.**
+  - **Conhecer casos de uso de projetos em Kotlin, construídos por desenvolvedores de todo o Brasil.**
 
 ### Como contribuir neste repositório?
   - **Faça um fork deste repositório.**
@@ -29,3 +29,4 @@
 - **KMP:**
   - **[invoicer-kmp](https://github.com/alaksiondev/invoicer-kmp)**
   - **[moodly](https://github.com/joohnq/moodly)**
+  - **[Writeopia](https://github.com/Writeopia/Writeopia)**

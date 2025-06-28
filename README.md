@@ -22,6 +22,7 @@
 
 # Lista com todos os repositórios disponíveis:
 - **CMP:**
+  - **[Netflix-CMP](https://github.com/CodandoTV/Netflix-CMP)**
 
 - **Jetpack Compose:**
   - **[Safe-Pass](https://github.com/flavio-junior/Safe-Pass?tab=readme-ov-file)**

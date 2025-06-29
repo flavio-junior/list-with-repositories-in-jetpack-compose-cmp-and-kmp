@@ -16,7 +16,7 @@
   - **Abra um Pull Request solicitando a merge da sua branch.**
 
 ### Extra:
-  - **Adicione a documentação no seu repositório, caso não tenha para que estiver acessando seu repostiório, saber o objetivo principal dele.**
+  - **Adicione a documentação no seu repositório, caso não tenha para que estiver acessando seu repositório, saber o objetivo principal dele.**
   - **Adicione vídeos e imagens do seu projeto.**
   - **Explique como subir o ambiente de desenvolvimento na máquina de outras pessoas.**
 

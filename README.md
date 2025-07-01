@@ -26,6 +26,7 @@
 
 - **Jetpack Compose:**
   - **[Safe-Pass](https://github.com/flavio-junior/Safe-Pass?tab=readme-ov-file)**
+  - **[Hello-Job](https://github.com/ArleyPereira/HelloJob)**
 
 - **KMP:**
   - **[invoicer-kmp](https://github.com/alaksiondev/invoicer-kmp)**

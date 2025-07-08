@@ -32,4 +32,5 @@
   - **[invoicer-kmp](https://github.com/alaksiondev/invoicer-kmp)**
   - **[moodly](https://github.com/joohnq/moodly)**
   - **[RoundX](https://github.com/git-jr/RoundX)**
+  - **[Spring Sale](https://github.com/flavio-junior/spring-sale-kmp)**
   - **[Writeopia](https://github.com/Writeopia/Writeopia)**
